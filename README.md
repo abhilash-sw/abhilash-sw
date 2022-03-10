@@ -1,0 +1,13 @@
+I am a research scientist in Space Astronomy Group (SAG) of Indian Space Research Organisation (ISRO), one of the leading groups in India in space science instrumentation and data analysis. My work mainly involves statistical analysis and simulation from areas of astronomy, solar physics, and radiation detector physics.
+
+
+
+<!---
+- 👋 Hi, I’m @abhilash-sw
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+abhilash-sw/abhilash-sw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
